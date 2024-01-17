@@ -1,3 +1,9 @@
+A fork from config-plugin-react-native-intercom
+
+Updated the @expo/config-plugins dependency to "^7.2.5" in order for it to run on Expo SDK 49
+
+# Original ReadMe follows
+
 # Expo Config Plugin `@intercom/intercom-react-native`
 
 An unofficial [Expo config plugin](https://docs.expo.io/guides/config-plugins) for easily setting up [React Native Intercom](https://github.com/intercom/intercom-react-native) with expo dev clients
